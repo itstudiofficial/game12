@@ -1,0 +1,7 @@
+{
+  "name": "Ads Predia",
+  "description": "A high-end micro-task earning platform for monetization and simple task engagement, featuring dashboards, task management, wallet systems, and referral programs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
